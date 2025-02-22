@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sonorous-antler-450307-j0",
+  "private_key_id": "2fffdf83c9ebb5163d95ec00a3c1695eec39d2bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNJBFG4XSo87yd\nuPnYBZS5pTVTnlHwTOen37sUM/8c9MF2Wx2WfGHCyNmBv+LzCJyvLyIK9CfXAeaV\nvskCAp7HSq6iF1B3gTHcnqRZLNvc4EhEdaVML+ar4aYbWBVsC94Ts5rtr6grJGYU\nyiTzUI4UqB/9h2Eum4dMEa/ur65E2e9X4U08RBV6ez7+y5atIKBVJoQ4eKVSBj5O\n5htDLLCHhey5u3k+E1D63pgkpSFSry/YJ/kZYaJQ/3evcHQmCjx8G9JXA2Hclcal\njClLGOO4sQ04g63fH4H66OyWiumIkpbuFTc+lFQC4CgyH5cVVRM9BXTKS/OtKqwa\nwC7MYX55AgMBAAECggEADE6JTR9qjzLVjwEqk+oEql1b9YMYDPZ/upUZGG1iQNGc\nrufKAC2vTo853ATx0pQ9KU9YThE1Chvp0cPVfh3hX2pFKPAUfZ8fzGdu2DG/qBZM\nZt/FPovstq8Rz0+Sap3sStZ921zWMpDVb9mieC7dfLKeO3qbADfih8EBELRz4x/m\nhw5eSisBl1/a85ja4EEy0IGlVgX1kVearo4gnel0A7eoBeANqqDMkhQk3wIyT7NW\nN6ivOW1/FgGKOUwjyw0fpjrkX7uW1cqtFhBkFSgfBHYOJxdhyWfugic37MgzBj7T\nicmM4wSBJf2Y3uIpOpWQRqpuBnkKFULcToi+auAbAQKBgQC+HYnJSswE8mTWEGAD\nKlQURo6k4ksDnee6XkKDJJSw8nu70wCslV7mmfhjKgNCXuUenE19RN0vKTHIX6sx\net4M7cLLpigHE4hJAZ8JvSJKJspDarsREq1fQmcmVjse4IEh5hnQ2RkeYBykXvVr\npp7I5oQnkQlSdHStlFCTIh8uOQKBgQC+DakCrRI0OANPqs5KX21qLifLSCSlQGW+\nX0ynxlaBqzrPD3KsGto3Z0u44X9W54fE/Lys+AhV4TIXBumFRnKCmKZGs7nAurG/\n0bBTS2JDzMNkfGIvxN156rc3Ht06hTjHAcu/ydWa5xH2iCYFUgzqCJ0uF9w34yBR\n7AOOguzSQQKBgG5/ZpU7RwddBySwEc3lLUc3lzLYX/czMPtOS+RDP7T0ytvpEMw+\naREozoh8Y7aQxySafiNgAhqmG8w1Zp/0pNjo3D5XTY6HWL/uFEypxCNLFmZGw4Fx\n1Ji4VJGgru4MWKGmRrzvYb0Y6azTkFtIVaO473i7wKpPC33T5V0PCQZpAoGADvDD\n+JHifHhqyjiDPxWBZHd8aV6igtstJGoZfJb69fagCOcN/LmfrftQ2JfhitNouPOl\nYXOeNCIf7e99LBz9o4aci7JVR/FlR88ULXgfoXTXZ27fySGQx6TMAmlKuu7+J6bc\nfZdAU40WvGq3knOA0GUc9iKqDTqtr8L+BJYGSAECgYAe0UKdEPxqt1ssCEK4bnY+\nnP1S0IFyfIIX466y8SxSCXOKkyiB4ZVDYro2aX5XEveyk5NMD3n9kw1+cCW3vC7l\ndesACnXAFQ1YRP2aDbJFlirfqDW65V3630vzkdLQDZXUwq9FhU6MFl8BFYeeyFPC\n4ZS0GaSBp/TXdyW7YypPCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate-api-user@sonorous-antler-450307-j0.iam.gserviceaccount.com",
+  "client_id": "117304566310378191203",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate-api-user%40sonorous-antler-450307-j0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
